@@ -33,6 +33,7 @@ globalTempo = {
 			\include "gloriacombo-mezzo.inc"
 			\include "gloriacombo-tenor.inc"
 		>>
+		\include "gloriacombo-violin.inc"
 	>>
 
 	\layout { }
