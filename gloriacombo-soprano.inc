@@ -87,7 +87,7 @@
 		en la glo -- ria de Dios Pa __ dre.
 
 		La la la la la la la
-		la la la la la la
+		la la la la la la.
 
 		A -- mén.
 	}
