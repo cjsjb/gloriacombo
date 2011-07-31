@@ -9,55 +9,55 @@
 		%\override NoteHead #'stencil = #ly:text-interface::print
 		%\override NoteHead #'text = #(markup #:musicglyph "scripts.stopped")
 
-		r4-\mf  mar4 r2  |
-		r4 mar4 r2  |
-		r4 mar4 r2  |
-		r4 mar4 r2  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
 %% 5
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
 %% 10
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4-\p  mar4 r mar4  |
-		r4 mar4 r mar4  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
 %% 15
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4-\mf  mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
 %% 20
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
 %% 25
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
 %% 30
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
 %% 35
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
 %% 40
-		r4 mar4 r mar4  |
-		r4 mar4 r mar4  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
+		mar8 mar8 mar8^^ mar8 mar8 mar8 mar8^^ mar8  |
 		mar1^^  |
 		\bar "|."
 
