@@ -5,6 +5,7 @@
 \header {
 	title = "Gloria"
 	subtitle = "Combo"
+	composer = "Gerardo Santana Padilla"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
