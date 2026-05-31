@@ -82,8 +82,8 @@
 		Glo -- "ria a" Dios en el cie __ lo
 		"y en" la Tie -- rra paz a los hom -- bres.
 
-		Só -- lo "Tú e" -- res san -- to,
-		só -- lo Tú, Se -- ñor, __
+		Só -- lo "tú e" -- res san -- to,
+		só -- lo tú, Se -- ñor, __
 		con el Es -- pí -- ri -- tu San __ to,
 		en la glo -- ria de Dios Pa __ dre.
 
